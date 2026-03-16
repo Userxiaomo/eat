@@ -1,0 +1,5 @@
+{
+  "name": "Gemini Chat Pro",
+  "description": "A professional, LobeChat-inspired AI chat interface powered by Google Gemini 3 models. Features streaming responses, Markdown support, and multi-session management.",
+  "requestFramePermissions": []
+}

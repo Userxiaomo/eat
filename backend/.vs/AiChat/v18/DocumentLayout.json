@@ -1,0 +1,275 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\tmp\\backend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{63FCC3D7-5938-4F2E-9B76-F08F48843031}|src\\AiChat.API\\AiChat.API.csproj|d:\\tmp\\backend\\src\\aichat.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{63FCC3D7-5938-4F2E-9B76-F08F48843031}|src\\AiChat.API\\AiChat.API.csproj|solutionrelative:src\\aichat.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63FCC3D7-5938-4F2E-9B76-F08F48843031}|src\\AiChat.API\\AiChat.API.csproj|d:\\tmp\\backend\\src\\aichat.api\\aichat.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{63FCC3D7-5938-4F2E-9B76-F08F48843031}|src\\AiChat.API\\AiChat.API.csproj|solutionrelative:src\\aichat.api\\aichat.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63FCC3D7-5938-4F2E-9B76-F08F48843031}|src\\AiChat.API\\AiChat.API.csproj|d:\\tmp\\backend\\src\\aichat.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63FCC3D7-5938-4F2E-9B76-F08F48843031}|src\\AiChat.API\\AiChat.API.csproj|solutionrelative:src\\aichat.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E655506C-A6C0-453C-B138-B80269EE1792}|src\\AiChat.Infrastructure\\AiChat.Infrastructure.csproj|d:\\tmp\\backend\\src\\aichat.infrastructure\\persistence\\repositories\\conversationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E655506C-A6C0-453C-B138-B80269EE1792}|src\\AiChat.Infrastructure\\AiChat.Infrastructure.csproj|solutionrelative:src\\aichat.infrastructure\\persistence\\repositories\\conversationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E655506C-A6C0-453C-B138-B80269EE1792}|src\\AiChat.Infrastructure\\AiChat.Infrastructure.csproj|d:\\tmp\\backend\\src\\aichat.infrastructure\\persistence\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E655506C-A6C0-453C-B138-B80269EE1792}|src\\AiChat.Infrastructure\\AiChat.Infrastructure.csproj|solutionrelative:src\\aichat.infrastructure\\persistence\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E655506C-A6C0-453C-B138-B80269EE1792}|src\\AiChat.Infrastructure\\AiChat.Infrastructure.csproj|d:\\tmp\\backend\\src\\aichat.infrastructure\\identity\\jwttokengenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E655506C-A6C0-453C-B138-B80269EE1792}|src\\AiChat.Infrastructure\\AiChat.Infrastructure.csproj|solutionrelative:src\\aichat.infrastructure\\identity\\jwttokengenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8D1EE45-026C-4869-B9F4-B72A63263D9B}|src\\AiChat.Domain\\AiChat.Domain.csproj|d:\\tmp\\backend\\src\\aichat.domain\\exceptions\\domainexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8D1EE45-026C-4869-B9F4-B72A63263D9B}|src\\AiChat.Domain\\AiChat.Domain.csproj|solutionrelative:src\\aichat.domain\\exceptions\\domainexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8D1EE45-026C-4869-B9F4-B72A63263D9B}|src\\AiChat.Domain\\AiChat.Domain.csproj|d:\\tmp\\backend\\src\\aichat.domain\\common\\valueobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8D1EE45-026C-4869-B9F4-B72A63263D9B}|src\\AiChat.Domain\\AiChat.Domain.csproj|solutionrelative:src\\aichat.domain\\common\\valueobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8D1EE45-026C-4869-B9F4-B72A63263D9B}|src\\AiChat.Domain\\AiChat.Domain.csproj|d:\\tmp\\backend\\src\\aichat.domain\\common\\idomainevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8D1EE45-026C-4869-B9F4-B72A63263D9B}|src\\AiChat.Domain\\AiChat.Domain.csproj|solutionrelative:src\\aichat.domain\\common\\idomainevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8D1EE45-026C-4869-B9F4-B72A63263D9B}|src\\AiChat.Domain\\AiChat.Domain.csproj|d:\\tmp\\backend\\src\\aichat.domain\\common\\entity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8D1EE45-026C-4869-B9F4-B72A63263D9B}|src\\AiChat.Domain\\AiChat.Domain.csproj|solutionrelative:src\\aichat.domain\\common\\entity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8D1EE45-026C-4869-B9F4-B72A63263D9B}|src\\AiChat.Domain\\AiChat.Domain.csproj|d:\\tmp\\backend\\src\\aichat.domain\\common\\aggregateroot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8D1EE45-026C-4869-B9F4-B72A63263D9B}|src\\AiChat.Domain\\AiChat.Domain.csproj|solutionrelative:src\\aichat.domain\\common\\aggregateroot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8D1EE45-026C-4869-B9F4-B72A63263D9B}|src\\AiChat.Domain\\AiChat.Domain.csproj|d:\\tmp\\backend\\src\\aichat.domain\\aggregates\\conversationaggregate\\conversation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8D1EE45-026C-4869-B9F4-B72A63263D9B}|src\\AiChat.Domain\\AiChat.Domain.csproj|solutionrelative:src\\aichat.domain\\aggregates\\conversationaggregate\\conversation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8D1EE45-026C-4869-B9F4-B72A63263D9B}|src\\AiChat.Domain\\AiChat.Domain.csproj|d:\\tmp\\backend\\src\\aichat.domain\\aggregates\\conversationaggregate\\iconversationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8D1EE45-026C-4869-B9F4-B72A63263D9B}|src\\AiChat.Domain\\AiChat.Domain.csproj|solutionrelative:src\\aichat.domain\\aggregates\\conversationaggregate\\iconversationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8D1EE45-026C-4869-B9F4-B72A63263D9B}|src\\AiChat.Domain\\AiChat.Domain.csproj|d:\\tmp\\backend\\src\\aichat.domain\\aggregates\\conversationaggregate\\conversationsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8D1EE45-026C-4869-B9F4-B72A63263D9B}|src\\AiChat.Domain\\AiChat.Domain.csproj|solutionrelative:src\\aichat.domain\\aggregates\\conversationaggregate\\conversationsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8D1EE45-026C-4869-B9F4-B72A63263D9B}|src\\AiChat.Domain\\AiChat.Domain.csproj|d:\\tmp\\backend\\src\\aichat.domain\\aggregates\\useraggregate\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8D1EE45-026C-4869-B9F4-B72A63263D9B}|src\\AiChat.Domain\\AiChat.Domain.csproj|solutionrelative:src\\aichat.domain\\aggregates\\useraggregate\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\tmp\\backend\\src\\AiChat.API\\Program.cs",
+              "RelativeDocumentMoniker": "src\\AiChat.API\\Program.cs",
+              "ToolTip": "D:\\tmp\\backend\\src\\AiChat.API\\Program.cs",
+              "RelativeToolTip": "src\\AiChat.API\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-12T05:44:41.151Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ConversationRepository.cs",
+              "DocumentMoniker": "D:\\tmp\\backend\\src\\AiChat.Infrastructure\\Persistence\\Repositories\\ConversationRepository.cs",
+              "RelativeDocumentMoniker": "src\\AiChat.Infrastructure\\Persistence\\Repositories\\ConversationRepository.cs",
+              "ToolTip": "D:\\tmp\\backend\\src\\AiChat.Infrastructure\\Persistence\\Repositories\\ConversationRepository.cs",
+              "RelativeToolTip": "src\\AiChat.Infrastructure\\Persistence\\Repositories\\ConversationRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-12T05:43:44.082Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "D:\\tmp\\backend\\src\\AiChat.Infrastructure\\Persistence\\Repositories\\UserRepository.cs",
+              "RelativeDocumentMoniker": "src\\AiChat.Infrastructure\\Persistence\\Repositories\\UserRepository.cs",
+              "ToolTip": "D:\\tmp\\backend\\src\\AiChat.Infrastructure\\Persistence\\Repositories\\UserRepository.cs",
+              "RelativeToolTip": "src\\AiChat.Infrastructure\\Persistence\\Repositories\\UserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-12T05:43:42.668Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "JwtTokenGenerator.cs",
+              "DocumentMoniker": "D:\\tmp\\backend\\src\\AiChat.Infrastructure\\Identity\\JwtTokenGenerator.cs",
+              "RelativeDocumentMoniker": "src\\AiChat.Infrastructure\\Identity\\JwtTokenGenerator.cs",
+              "ToolTip": "D:\\tmp\\backend\\src\\AiChat.Infrastructure\\Identity\\JwtTokenGenerator.cs",
+              "RelativeToolTip": "src\\AiChat.Infrastructure\\Identity\\JwtTokenGenerator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-12T05:40:48.802Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IDomainEvent.cs",
+              "DocumentMoniker": "D:\\tmp\\backend\\src\\AiChat.Domain\\Common\\IDomainEvent.cs",
+              "RelativeDocumentMoniker": "src\\AiChat.Domain\\Common\\IDomainEvent.cs",
+              "ToolTip": "D:\\tmp\\backend\\src\\AiChat.Domain\\Common\\IDomainEvent.cs",
+              "RelativeToolTip": "src\\AiChat.Domain\\Common\\IDomainEvent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-12T05:40:38.946Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Entity.cs",
+              "DocumentMoniker": "D:\\tmp\\backend\\src\\AiChat.Domain\\Common\\Entity.cs",
+              "RelativeDocumentMoniker": "src\\AiChat.Domain\\Common\\Entity.cs",
+              "ToolTip": "D:\\tmp\\backend\\src\\AiChat.Domain\\Common\\Entity.cs",
+              "RelativeToolTip": "src\\AiChat.Domain\\Common\\Entity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-12T05:40:37.329Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AiChat.API.csproj",
+              "DocumentMoniker": "D:\\tmp\\backend\\src\\AiChat.API\\AiChat.API.csproj",
+              "RelativeDocumentMoniker": "src\\AiChat.API\\AiChat.API.csproj",
+              "ToolTip": "D:\\tmp\\backend\\src\\AiChat.API\\AiChat.API.csproj",
+              "RelativeToolTip": "src\\AiChat.API\\AiChat.API.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvxwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-01-12T05:26:14.299Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\tmp\\backend\\src\\AiChat.API\\appsettings.json",
+              "RelativeDocumentMoniker": "src\\AiChat.API\\appsettings.json",
+              "ToolTip": "D:\\tmp\\backend\\src\\AiChat.API\\appsettings.json",
+              "RelativeToolTip": "src\\AiChat.API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwkAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-01-12T05:26:30.632Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ValueObject.cs",
+              "DocumentMoniker": "D:\\tmp\\backend\\src\\AiChat.Domain\\Common\\ValueObject.cs",
+              "RelativeDocumentMoniker": "src\\AiChat.Domain\\Common\\ValueObject.cs",
+              "ToolTip": "D:\\tmp\\backend\\src\\AiChat.Domain\\Common\\ValueObject.cs",
+              "RelativeToolTip": "src\\AiChat.Domain\\Common\\ValueObject.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-12T05:40:40.9Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DomainException.cs",
+              "DocumentMoniker": "D:\\tmp\\backend\\src\\AiChat.Domain\\Exceptions\\DomainException.cs",
+              "RelativeDocumentMoniker": "src\\AiChat.Domain\\Exceptions\\DomainException.cs",
+              "ToolTip": "D:\\tmp\\backend\\src\\AiChat.Domain\\Exceptions\\DomainException.cs",
+              "RelativeToolTip": "src\\AiChat.Domain\\Exceptions\\DomainException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-12T05:40:44.106Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AggregateRoot.cs",
+              "DocumentMoniker": "D:\\tmp\\backend\\src\\AiChat.Domain\\Common\\AggregateRoot.cs",
+              "RelativeDocumentMoniker": "src\\AiChat.Domain\\Common\\AggregateRoot.cs",
+              "ToolTip": "D:\\tmp\\backend\\src\\AiChat.Domain\\Common\\AggregateRoot.cs",
+              "RelativeToolTip": "src\\AiChat.Domain\\Common\\AggregateRoot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-12T05:40:32.552Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IConversationRepository.cs",
+              "DocumentMoniker": "D:\\tmp\\backend\\src\\AiChat.Domain\\Aggregates\\ConversationAggregate\\IConversationRepository.cs",
+              "RelativeDocumentMoniker": "src\\AiChat.Domain\\Aggregates\\ConversationAggregate\\IConversationRepository.cs",
+              "ToolTip": "D:\\tmp\\backend\\src\\AiChat.Domain\\Aggregates\\ConversationAggregate\\IConversationRepository.cs",
+              "RelativeToolTip": "src\\AiChat.Domain\\Aggregates\\ConversationAggregate\\IConversationRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-12T05:40:05.424Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ConversationSettings.cs",
+              "DocumentMoniker": "D:\\tmp\\backend\\src\\AiChat.Domain\\Aggregates\\ConversationAggregate\\ConversationSettings.cs",
+              "RelativeDocumentMoniker": "src\\AiChat.Domain\\Aggregates\\ConversationAggregate\\ConversationSettings.cs",
+              "ToolTip": "D:\\tmp\\backend\\src\\AiChat.Domain\\Aggregates\\ConversationAggregate\\ConversationSettings.cs",
+              "RelativeToolTip": "src\\AiChat.Domain\\Aggregates\\ConversationAggregate\\ConversationSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-12T05:40:03.37Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Conversation.cs",
+              "DocumentMoniker": "D:\\tmp\\backend\\src\\AiChat.Domain\\Aggregates\\ConversationAggregate\\Conversation.cs",
+              "RelativeDocumentMoniker": "src\\AiChat.Domain\\Aggregates\\ConversationAggregate\\Conversation.cs",
+              "ToolTip": "D:\\tmp\\backend\\src\\AiChat.Domain\\Aggregates\\ConversationAggregate\\Conversation.cs",
+              "RelativeToolTip": "src\\AiChat.Domain\\Aggregates\\ConversationAggregate\\Conversation.cs",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-12T05:39:59.324Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\tmp\\backend\\src\\AiChat.Domain\\Aggregates\\UserAggregate\\User.cs",
+              "RelativeDocumentMoniker": "src\\AiChat.Domain\\Aggregates\\UserAggregate\\User.cs",
+              "ToolTip": "D:\\tmp\\backend\\src\\AiChat.Domain\\Aggregates\\UserAggregate\\User.cs",
+              "RelativeToolTip": "src\\AiChat.Domain\\Aggregates\\UserAggregate\\User.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-12T05:26:23.593Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

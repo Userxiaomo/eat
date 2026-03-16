@@ -1,0 +1,11 @@
+D:\tmp\backend\src\AiChat.Domain\bin\Debug\net10.0\AiChat.Domain.deps.json
+D:\tmp\backend\src\AiChat.Domain\bin\Debug\net10.0\AiChat.Domain.dll
+D:\tmp\backend\src\AiChat.Domain\bin\Debug\net10.0\AiChat.Domain.pdb
+D:\tmp\backend\src\AiChat.Domain\obj\Debug\net10.0\AiChat.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\tmp\backend\src\AiChat.Domain\obj\Debug\net10.0\AiChat.Domain.AssemblyInfoInputs.cache
+D:\tmp\backend\src\AiChat.Domain\obj\Debug\net10.0\AiChat.Domain.AssemblyInfo.cs
+D:\tmp\backend\src\AiChat.Domain\obj\Debug\net10.0\AiChat.Domain.csproj.CoreCompileInputs.cache
+D:\tmp\backend\src\AiChat.Domain\obj\Debug\net10.0\AiChat.Domain.dll
+D:\tmp\backend\src\AiChat.Domain\obj\Debug\net10.0\refint\AiChat.Domain.dll
+D:\tmp\backend\src\AiChat.Domain\obj\Debug\net10.0\AiChat.Domain.pdb
+D:\tmp\backend\src\AiChat.Domain\obj\Debug\net10.0\ref\AiChat.Domain.dll

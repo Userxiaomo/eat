@@ -1,0 +1,15 @@
+D:\tmp\backend\src\AiChat.Application\bin\Debug\net10.0\AiChat.Application.deps.json
+D:\tmp\backend\src\AiChat.Application\bin\Debug\net10.0\AiChat.Application.dll
+D:\tmp\backend\src\AiChat.Application\bin\Debug\net10.0\AiChat.Application.pdb
+D:\tmp\backend\src\AiChat.Application\bin\Debug\net10.0\AiChat.Domain.dll
+D:\tmp\backend\src\AiChat.Application\bin\Debug\net10.0\AiChat.Domain.pdb
+D:\tmp\backend\src\AiChat.Application\obj\Debug\net10.0\AiChat.Application.csproj.AssemblyReference.cache
+D:\tmp\backend\src\AiChat.Application\obj\Debug\net10.0\AiChat.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\tmp\backend\src\AiChat.Application\obj\Debug\net10.0\AiChat.Application.AssemblyInfoInputs.cache
+D:\tmp\backend\src\AiChat.Application\obj\Debug\net10.0\AiChat.Application.AssemblyInfo.cs
+D:\tmp\backend\src\AiChat.Application\obj\Debug\net10.0\AiChat.Application.csproj.CoreCompileInputs.cache
+D:\tmp\backend\src\AiChat.Application\obj\Debug\net10.0\AiChat.A.0CC360BA.Up2Date
+D:\tmp\backend\src\AiChat.Application\obj\Debug\net10.0\AiChat.Application.dll
+D:\tmp\backend\src\AiChat.Application\obj\Debug\net10.0\refint\AiChat.Application.dll
+D:\tmp\backend\src\AiChat.Application\obj\Debug\net10.0\AiChat.Application.pdb
+D:\tmp\backend\src\AiChat.Application\obj\Debug\net10.0\ref\AiChat.Application.dll
